@@ -1,2 +1,1 @@
-# Group2FinalWebsite
-Group2FinalWebsite
+Final Responsive Website
