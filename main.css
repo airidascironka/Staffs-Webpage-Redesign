@@ -588,7 +588,7 @@ a {
 }
 
 @media screen and (max-width: 430px) {
-    #header-logo-container {
+/*     #header-logo-container {
         display: none;
-    }
+    } */
 }
